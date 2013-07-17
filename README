@@ -1,0 +1,9 @@
+Extra Sawfish stuff
+
+== Contents ==
+
+* yarock.jl	remote for Yarock audioplayer
+
+== Installation ==
+
+copy .jl-files in $HOME/.sawfish/lisp
