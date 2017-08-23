@@ -2,7 +2,7 @@
 ;                                               ;
 ; yarock.jl remote for Yarock audioplayer       ;
 ;                                               ;
-; Christopher Roy Bratusek <nano@tuxfamily.org> ;
+;  Christopher Roy Bratusek <nano@jpberlin.de>  ;
 ;                                               ;
 ; 2012-2013 / GNU GPL v3                        ;
 ;                                               ;

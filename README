@@ -2,8 +2,13 @@ Extra Sawfish stuff
 
 == Contents ==
 
+* diodon.jl	integration of Diodon clipboard manager
+* fehlstart.jl	integration of Fehlstart application launcher
+* idesk.jl	integration of IDesk desktop manager
+* nm-applet.jl	integration of Network Manager applet
+* pancake.jl	integration of Pancake desktop panel
 * yarock.jl	remote for Yarock audioplayer
 
 == Installation ==
 
-copy .jl-files in $HOME/.sawfish/lisp
+copy .jl-files in ${HOME}/.sawfish/lisp
