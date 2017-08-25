@@ -12,3 +12,18 @@ Extra Sawfish stuff
 == Installation ==
 
 copy .jl-files in ${HOME}/.sawfish/lisp
+
+in your ${HOME}/.sawfishrc (or ${HOME}/.sawfish/rc) add
+
+	(require 'MODULE)
+
+for each one you want to use, for example
+
+	(require 'fehlstart)
+
+you'll then find possible options in
+
+	Sawfish Config > Misc. > External Appliactions
+
+except for yarock.jl which provides remote functions for use with Yarock,
+add them using the Keybindings interface from Sawfish Config.
